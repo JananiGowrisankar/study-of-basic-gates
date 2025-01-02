@@ -94,7 +94,7 @@ endmodule
 
 **Timing diagram**
 
-![exp12](https://github.com/user-attachments/assets/94edeb3d-7213-48c2-98bd-015831ff429f)
+![image](https://github.com/user-attachments/assets/cb864d27-5479-4b63-b807-88fff906ca8a)
 
 
 **Result:**
